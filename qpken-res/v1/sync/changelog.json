@@ -1,0 +1,14 @@
+{
+  "changelog_version": 1,
+  "version_text": "v3.0.0",
+  "notice": "The question papers and resources on this website are provided for educational purposes only. All rights belong to the respective universities and institutions. We do not claim ownership of these materials.",
+  "features": [
+    "Include search option",
+    "Included G, I, K scheme Syllabus, question papers & model answer papers respectively subject to availability over internet for free use"
+  ],
+  "caution": [
+    "While we try to provide accurate and updated information, we do not guarantee completeness or accuracy of the content. Students should verify with their official university resources.",
+    "We are not responsible for any loss, academic issues, or damages resulting from the use of this website."
+  ],
+  "privacy_url": "https://qpkendra.com/privacy.html"
+}
