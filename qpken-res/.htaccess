@@ -1,0 +1,6 @@
+<IfModule mod_headers.c>
+    # Allow access from your Flutter app
+    Header set Access-Control-Allow-Origin "*"
+    Header set Access-Control-Allow-Methods "GET, POST, OPTIONS, PUT, DELETE"
+    Header set Access-Control-Allow-Headers "Origin, X-Requested-With, Content-Type, Accept"
+</IfModule>

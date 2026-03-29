@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "data_url": "https://files.qpkendra.com/qpken-res/v1/sync/app_data.json",
+  "msb_data_url": "https://files.qpkendra.com/qpken-res/v1/sync/msb_data.json",
+  "last_updated": "2026-03-15T00:00:00Z",
+  "ticker_items": [
+    "📚 New Papers Added for MSBTE",
+    "✨ Refresh the Data from Settings ",
+    "K Scheme Question Papers & Syllabus Added"
+  ],
+  "ticker_expiry": "2026-05-01T00:00:00Z",
+  "refresh_interval_days": 1,
+  "browse_branches_layout": 2,
+  "changelog_version": 1,
+  "changelog_url": "https://files.qpkendra.com/qpken-res/v1/sync/changelog.json",
+  "change_log": "Added recent MSBTE and Maharashtra Board HSC papers.",
+  "branch_items": [
+    {
+      "name": "Computer Engineering",
+      "image_url": null
+    },
+    {
+      "name": "Mechanical Engineering",
+      "image_url": null
+    },
+    {
+      "name": "Civil Engineering",
+      "image_url": null
+    },
+    {
+      "name": "Electrical Engineering",
+      "image_url": null
+    },
+    {
+      "name": "Pharmacy",
+      "image_url": null
+    },
+    {
+      "name": "Automobile Engineering",
+      "image_url": null
+    },
+    {
+      "name": "Electronics Engineering",
+      "image_url": null
+    },
+    {
+      "name": "Electronics Engineering Group",
+      "image_url": null
+    },
+    {
+      "name": "Computer Engineering Group",
+      "image_url": null
+    },
+    {
+      "name": "Electronics & Telecommunication Engineer",
+      "image_url": null
+    },
+    {
+      "name": "Computer Engineering/IT",
+      "image_url": null
+    },
+    {
+      "name": "Mechanical/Automobile/Production/Chemica",
+      "image_url": null
+    },
+    {
+      "name": "Mechanical/Chemical Engineering",
+      "image_url": null
+    },
+    {
+      "name": "Medical Electronics",
+      "image_url": null
+    },
+    {
+      "name": "Instrumentation Engineering",
+      "image_url": null
+    },
+    {
+      "name": "Electronics/Telecommunication Engineerin",
+      "image_url": null
+    },
+    {
+      "name": "Chemical Engineering",
+      "image_url": null
+    },
+    {
+      "name": "Instrumentation/Electronics Engineering",
+      "image_url": null
+    }
+  ]
+}
